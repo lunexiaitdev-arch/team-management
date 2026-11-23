@@ -1,0 +1,46 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE & Editor
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Flutter / Dart
+flutter_team_app/.dart_tool/
+flutter_team_app/.flutter-plugins
+flutter_team_app/.flutter-plugins-dependencies
+flutter_team_app/.pub-cache/
+flutter_team_app/.pub/
+flutter_team_app/build/
+flutter_team_app/coverage/
+flutter_team_app/android/.gradle/
+flutter_team_app/android/local.properties
+flutter_team_app/android/app/release/
+flutter_team_app/ios/Pods/
+flutter_team_app/ios/.symlinks/
+flutter_team_app/ios/Flutter/.last_build_id
+flutter_team_app/macos/Flutter/ephemeral/
+flutter_team_app/linux/flutter/ephemeral/
+flutter_team_app/windows/flutter/ephemeral/
+
+# Secrets & Local Backups
+*.sql
+*.tar.gz
+*.zip
+wp-config.php
+*service-account*.json

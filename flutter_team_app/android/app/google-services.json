@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519365799103",
+    "project_id": "fbibd-team",
+    "storage_bucket": "fbibd-team.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519365799103:android:23bb6ef57f267f8d8baa0a",
+        "android_client_info": {
+          "package_name": "com.fbinternational.team.flutter_team_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtIFBvJI7D3Ynl8-1dLkM4M5ri6tR1p8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
